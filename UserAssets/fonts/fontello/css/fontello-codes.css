@@ -1,0 +1,6 @@
+
+.icon-bar-n:before { content: '\e800'; } /* '' */
+.icon-bar-o:before { content: '\e801'; } /* '' */
+.icon-beer:before { content: '\e802'; } /* '' */
+.icon-beer-o:before { content: '\e803'; } /* '' */
+.icon-cocktail:before { content: '\e804'; } /* '' */

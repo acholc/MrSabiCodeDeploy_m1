@@ -1,0 +1,117 @@
+[21-Aug-2019 13:02:52 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::state() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 610
+[21-Aug-2019 13:04:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::state() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 610
+[21-Aug-2019 13:07:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::state() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 610
+[21-Aug-2019 13:08:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::state() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 610
+[21-Aug-2019 13:43:20 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 343
+[21-Aug-2019 13:43:42 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 343
+[21-Aug-2019 13:44:30 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 343
+[21-Aug-2019 13:45:26 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 343
+[21-Aug-2019 13:45:50 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 343
+[26-Aug-2019 08:54:57 UTC] PHP Fatal error:  Cannot use Session as Session because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 21
+[28-Aug-2019 04:36:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[28-Aug-2019 04:36:45 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[28-Aug-2019 04:37:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[28-Aug-2019 04:38:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[28-Aug-2019 04:38:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[28-Aug-2019 04:39:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_rating() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 837
+[30-Aug-2019 13:34:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_deal() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 883
+[30-Aug-2019 13:34:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::delete_deal() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Admin/AdminController.php on line 883
+[12-Sep-2019 13:29:46 UTC] PHP Warning:  Unterminated comment starting line 1512 in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 1512
+[13-Sep-2019 09:50:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 8
+[13-Sep-2019 09:51:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 8
+[13-Sep-2019 09:52:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 8
+[13-Sep-2019 09:53:53 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 8
+[13-Sep-2019 09:55:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 10
+[13-Sep-2019 09:56:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 10
+[13-Sep-2019 11:50:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::__construct() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 46
+[13-Sep-2019 12:05:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ApiController::__construct() in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 46
+[14-Sep-2019 05:57:02 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 31
+[14-Sep-2019 08:35:38 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 392171520 bytes) in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 509
+[14-Sep-2019 08:35:38 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 65536 bytes) in /home/sitesindiit/public_html/MrSabi/dev/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 79
+[14-Sep-2019 08:36:24 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 392171520 bytes) in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 509
+[14-Sep-2019 08:36:24 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 65536 bytes) in /home/sitesindiit/public_html/MrSabi/dev/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 79
+[14-Sep-2019 08:36:39 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 392171520 bytes) in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 509
+[14-Sep-2019 08:36:39 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 65536 bytes) in /home/sitesindiit/public_html/MrSabi/dev/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 79
+[16-Sep-2019 09:00:20 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:01:02 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:01:23 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:01:26 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:01:56 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:02:16 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:02:31 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:04:12 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:04:44 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:05:58 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:06:36 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:07:01 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:07:09 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:07:21 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[16-Sep-2019 09:08:54 UTC] PHP Warning:  Use of undefined constant ‘cors’ - assumed '‘cors’' (this will throw an Error in a future version of PHP) in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 785
+[18-Sep-2019 13:21:19 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 31
+[20-Sep-2019 05:03:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 2
+[23-Sep-2019 11:39:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll: invalid ELF header in Unknown on line 0
+[23-Sep-2019 12:26:00 UTC] PHP Fatal error:  Cannot use Socialite as Socialite because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 32
+[23-Sep-2019 12:26:05 UTC] PHP Fatal error:  Cannot use Socialite as Socialite because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 32
+[23-Sep-2019 12:26:11 UTC] PHP Fatal error:  Cannot use Socialite as Socialite because the name is already in use in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 32
+[23-Sep-2019 12:34:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:34:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:34:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:35:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:35:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:35:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:35:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/sitesindiit/publi in /home/sitesindiit/public_html/MrSabi/dev/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[23-Sep-2019 12:45:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll: invalid ELF header in Unknown on line 0
+[23-Sep-2019 13:00:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll' - /opt/cpanel/ea-php71/root/usr/lib64/php/modules/php_intl.dll: invalid ELF header in Unknown on line 0
+[04-Oct-2019 04:30:03 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 2
+[04-Oct-2019 04:30:08 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 2
+[04-Oct-2019 04:30:20 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/User/UserControllers.php on line 2
+[22-Oct-2019 10:10:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/sitesindiit/public_html/MrSabi/dev/app/Http/Controllers/Api/ApiController.php on line 589
